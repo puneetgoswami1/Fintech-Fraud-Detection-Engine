@@ -25,7 +25,7 @@ High-volume payment gateways require early intervention before chargebacks occur
 ## How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/puneetgoswami1/Fintech-Fraud-Detection-Engine.git](https://github.com/puneetgoswami1/Fintech-Fraud-Detection-Engine.git)
+git clone https://github.com/puneetgoswami1/Fintech-Fraud-Detection-Engine.git
 cd Fintech-Fraud-Detection-Engine
 
 # Install requirements
